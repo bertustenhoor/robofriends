@@ -1,21 +1,41 @@
 export const robots = [
     {
-        id: 'John Doe',
+        id: 1,
         name: 'Johannes Doe',
         email: 'j.doe@gmail.com',
     },
     {
-        id: 'Ida Hoe',
+        id: 2,
         name: 'Ida Whatshername',
         email: 'I.Hoe@gmail.com',
     },
     {
-        id: 'Sammie',
+        id: 3,
         name: 'Bertus ten Hoor',
         email: 'bertustenhoor71@gmail.com',
     },
     {
-        id: `Sammie's girl`,
+        id: 4,
+        name: 'Titia ten Hoor',
+        email: 'titiatenhoor@gmail.com',
+    },
+    {
+        id: 5,
+        name: 'Titia ten Hoor',
+        email: 'titiatenhoor@gmail.com',
+    },
+    {
+        id: 6,
+        name: 'Titia ten Hoor',
+        email: 'titiatenhoor@gmail.com',
+    },
+    {
+        id: 7,
+        name: 'Titia ten Hoor',
+        email: 'titiatenhoor@gmail.com',
+    },
+    {
+        id: 8,
         name: 'Titia ten Hoor',
         email: 'titiatenhoor@gmail.com',
     },
